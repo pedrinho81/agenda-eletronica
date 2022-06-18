@@ -7,7 +7,7 @@
 Clone o projeto
 
 ```bash
-  $ git clone https://github.com/pedrinho81/agenda-eletronica
+  $ git clone https://github.com/pedrinho81/agenda-eletronica.git
 ```
 
 ### Client
