@@ -225,7 +225,7 @@ export default function cadastro() {
 
 
               <h1 className="text-4xl my-4">Lista de atividade</h1>
-              <div className="flex items-center gap-1">
+              <div className="flex flex-wrap items-center gap-1">
 
                 {typeof userAtividades !== "undefined" &&
                   userAtividades.map((atividade) => {
