@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(39 39 42);
+}
+h1 {
+  font-family: 'Tiro Gurmukhi', serif;
+}
